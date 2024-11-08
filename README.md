@@ -35,7 +35,7 @@ This project is a toolkit for automating sports betting, analyzing event data, p
 1. Clone the repository:
    ```bash
    git clone https://github.com/cgatting/Poisson-Distrabution-and-Dutching-Machine
-   cd betting-analysis
+   cd Poisson-Distrabution-and-Dutching-Machine
    ```
 2. Install the dependencies:
    ```bash
