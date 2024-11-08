@@ -1,0 +1,15 @@
+KEY RANDOM and values = ["Home", "Draw", "Away"], NAME IS "Match Winner"
+KEY RANDOM and values = ["Over/Under"], NAME IS "Goals Over/Under"
+KEY RANDOM and values = ["Exact Score"], formatting is 1:0,  NAME IS "Exact Score"
+need to find a betting platform that I CAN ACUTALLY LOGIN INTO..?
+need to search through find name and then pull back check to match with name and then with result
+
+also I can call 4 games a day.
+
+I should which is a maximum of 12 bets
+
+I Need to find a platform which I can support on mobile. 
+
+for i in name:??
+
+
